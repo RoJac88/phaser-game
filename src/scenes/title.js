@@ -4,7 +4,7 @@ import logoImg from "../assets/logo.png";
 export default class TitleScene extends Phaser.Scene {
   
   constructor() {
-    super('Game');
+    super('Title');
   }
 
   preload() {
